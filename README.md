@@ -10,9 +10,9 @@ Nexter is a responsive landing page for a fictional company which sells luxury h
 
 ## 📷 Screen Shots
 
-![1](ss/1.PNG)
-![2](ss/2.PNG)
-![3](ss/3.PNG)
-![4](ss/4.PNG)
-![5](ss/5.PNG)
-![6](ss/6.PNG)
+![1](ss/1.png)
+![2](ss/2.png)
+![3](ss/3.png)
+![4](ss/4.png)
+![5](ss/5.png)
+![6](ss/6.png)
