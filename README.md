@@ -1,6 +1,6 @@
 # Nexter
 
-Nexter is a responsive landing page for a fictional company which sells luxury homes across the world.
+Nexter is a responsive landing page for a fictional company which sells luxury homes across the world. It's one of the projects of The Advanced CSS and SASS Course on Udemy taught by Jonas Schmedtmann.
 
 ## 💻 Build with
 
